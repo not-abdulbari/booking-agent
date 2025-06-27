@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Environment variables and credentials
+.env
+*.pem
+token.json
+credentials.json
+
+# Cache and logs
+*.log
+.cache/
+.pytest_cache/
+coverage/
+
+# Streamlit
+.streamlit/secrets.toml
