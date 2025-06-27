@@ -113,9 +113,3 @@ Feel free to reach out for suggestions, improvements, or collaborations!
 
 ---
 
-Let me know if you’d like to add:
-- 🔀 Support for multi-user calendars  
-- 🧩 LangChain agent integration  
-- 🔒 OAuth flow for secure calendar access
-
-Always happy to help sharpen it further or brainstorm new angles!
